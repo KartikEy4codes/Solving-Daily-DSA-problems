@@ -1,3 +1,4 @@
+import java.util.ArrayList;
 public class Leetcode401 {
     class Solution {
     public List<String> readBinaryWatch(int turnedOn) {
