@@ -1,5 +1,5 @@
 public class Leetcode2906 {
-    // This solution was implemented with assistance from ChatGPT
+    
 class Solution {
 
     public int[][] constructProductMatrix(int[][] grid) {
